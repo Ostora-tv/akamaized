@@ -1,9 +1,6 @@
+#ALOSTORA-TV
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]TV FABOR ANDRIOD (PC/PHONE/SMART TV/ BOX TV)[/color]
-httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
 
-
-########################################################################################################################################################
 #EXTINF:1 tvg-logo="https://logopond.com/logos/94837108d7422c0350c3b304c1504289.png",WILD LIFE
 https://d1vp12yk4i8ou5.cloudfront.net/playlistwebvtt.m3u8?|Referer=http://showfhaonline2033.yoo7.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN 
@@ -24,12 +21,10 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8?|Referer=http://showfhaonlin
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71151?|Referer=http://showfhaonline2033.yoo7.com/&e=.m3u8
 #EXTINF:1 tvg-logo="https://i.pinimg.com/originals/ad/2e/57/ad2e57aa2d71eee1f79fb1b8fcb932da.png", BBC EARTH
 http://198.16.64.10:8278/bbcearth_twn/playlist.m3u8?tid=ME4E1221123312211233&ct=19225&tsum=6c7cae0711b757a53b43540bf40f93b0
-########################################################################################################################################################
+
 
 #EXTINF:1 tvg-logo="https://www.blackbride.com/wp-content/uploads/2018/04/568633-28958-l-ymURY8U.png",LoveStorie TV
 https://lovestoriestv-lovestoriestv-1-nz.samsung.wurl.tv/playlist.m3u8
-
-
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png", NHK BS1
 http://redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png",NHK BSP
