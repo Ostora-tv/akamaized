@@ -1,1 +1,1 @@
-# akamaized.m3u
+# akamaized
